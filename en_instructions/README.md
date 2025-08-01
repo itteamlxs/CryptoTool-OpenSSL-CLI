@@ -14,12 +14,12 @@ Perfect for pentesters, sysadmins, students, or anyone who wants to mess with cr
 ```
 
 /CryptoTool/
-├── openssl\_tool\_linux.sh         # Main script for Linux
-├── openssl\_tool\_windows.ps1      # PowerShell script for Windows
-├── openssl\_tool\_windows.cmd      # CMD version for Windows terminal
-├── instalar\_openssl\_linux.sh     # Universal OpenSSL installer for Linux
-├── instalar\_openssl\_windows.bat  # Silent OpenSSL installer for Windows
-└── README.md
+├── openssl_tool_linux.sh # Main script for Linux
+├── openssl_tool_windows.ps1 # PowerShell script for Windows
+├── openssl_tool_windows.cmd # CMD version for Windows terminal
+├── instalar_openssl_linux.sh # Universal OpenSSL installer for Linux
+├── instalar_openssl_windows.bat # Silent OpenSSL installer for Windows
+└── README.md # Central documentation
 
 ````
 
