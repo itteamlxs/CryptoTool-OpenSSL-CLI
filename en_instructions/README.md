@@ -1,6 +1,3 @@
-Claro, bro. Aquí va el `README.md` completamente traducido al inglés, estilo profesional pero con flow hacker-friendly. 🔥
-
----
 
 ## 📁 `README.md`
 
