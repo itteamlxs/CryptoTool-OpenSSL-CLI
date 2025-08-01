@@ -1,7 +1,3 @@
-Claro, mi bro 🧠🔥. Aquí tienes un `README.md` profesional pero callejero, listo para tirar en tu repo de GitHub como un 🔥 **toolkit de cifrado OpenSSL multiplataforma**.
-
----
-
 ## 📁 `README.md`
 
 ```markdown
